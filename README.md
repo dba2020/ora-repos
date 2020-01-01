@@ -1,0 +1,2 @@
+# ora-repos
+Oracle scripts
